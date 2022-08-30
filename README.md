@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there
 
 I'm a programmer who makes full stack applications, codes bots and automated scraping tools, and writes and builds arduino wearables and instruments. 
 
